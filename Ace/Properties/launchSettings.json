@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Main System": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ConnectionString": "Data Source=LAPTOP-ALLAROP8\\SQLEXPRESS;Initial Catalog=acedb;Integrated Security=True;TrustServerCertificate=true",
+        "NewConnectionString": "Data Source=LAPTOP-ALLAROP8\\SQLEXPRESS;Initial Catalog=acerdb;Integrated Security=True;TrustServerCertificate=true"
+      }
+    }
+  }
+}
