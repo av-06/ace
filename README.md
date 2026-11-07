@@ -12,6 +12,6 @@ Ace was designed with both students and teachers in mind, though currently focus
 
 ## Setup
 * [Microsoft SQL Server](https://www.microsoft.com/en-gb/sql-server) is required for this software to run.
-* The database schema and DDL statements for setting up the database can be found in the [Database](Database/) folder.
+* The [database schema](Database/ERD.png) and [DDL statements](Database/ddl_statements.sql) for setting up the database can be found in the [Database](Database/) folder.
 
 
