@@ -1,5 +1,5 @@
 # Ace - A Digital Flashcard Study Tool
-Ace is a digital flashcard application developed as part of my A-level NEA. Designed as an alternative to existing applications like Anki and Quizlet, Ace aims to offer a streamlined and efficient method of revision through a user-friendly experience.
+Ace is a digital flashcard application developed as part of my A-level NEA. Designed as an alternative to existing applications like [Anki](https://apps.ankiweb.net/) and [Quizlet](https://quizlet.com/gb), Ace aims to offer a streamlined and efficient method of revision through a user-friendly experience.
 
 Ace was designed with both students and teachers in mind, though currently focuses on students, due to time constraints during development.
 
